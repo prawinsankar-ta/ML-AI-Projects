@@ -26,33 +26,15 @@ This project focuses on detecting fraudulent transactions using insights from th
 - AWS analytics services, such as CloudWatch and S3 logging, are used to monitor API performance and fraud detection trends.
 
 ## Visualization
-![Fraud Detection Architecture](Fraud_detection_system/solution.001.jpeg)
+![solution 001](https://github.com/user-attachments/assets/c3449712-5d83-4748-8756-55f931ec042e)
 
 ## Requirements
 - Python 3.x
 - AWS SDK (Boto3)
+
 - Scikit-learn, Pandas, NumPy
 - Flask/FastAPI for API deployment
 - AWS services: S3, Lambda, API Gateway, CloudWatch
-
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/fraud-detection.git
-   cd fraud-detection
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Train the model:
-   ```bash
-   python train.py
-   ```
-4. Deploy to AWS:
-   ```bash
-   sh deploy.sh
-   ```
 
 ## Contributing
 Feel free to open issues or submit pull requests for improvements.
