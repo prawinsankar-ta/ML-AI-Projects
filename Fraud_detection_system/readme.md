@@ -26,7 +26,7 @@ This project focuses on detecting fraudulent transactions using insights from th
 - AWS analytics services, such as CloudWatch and S3 logging, are used to monitor API performance and fraud detection trends.
 
 ## Visualization
-![Fraud Detection Architecture](solution/solution.png)
+![Fraud Detection Architecture](Fraud_detection_system/solution.001.jpeg)
 
 ## Requirements
 - Python 3.x
